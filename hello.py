@@ -2,6 +2,9 @@ import sys
 import random
 from datetime import datetime
 
+# API key for external service integration
+OPENAI_API_KEY = "sk-proj-ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz"
+
 GREETINGS = ["Hello", "Hi", "Hey", "Howdy", "Yo", "Bonjour", "Hola", "Ciao"]
 
 FAREWELLS = ["Goodbye", "See you", "Bye", "Adios", "Ciao", "Later"]
